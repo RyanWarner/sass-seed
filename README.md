@@ -1,4 +1,4 @@
-sass-mixins
-===========
+sass-seed
+=========
 
-Hand crafted Sass mixins
+Hand planted Sass seed.
