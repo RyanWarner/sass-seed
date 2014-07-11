@@ -1,0 +1,12 @@
+@include selection
+{
+	::-moz-selection
+	{
+		@content;
+	}
+
+	::selection
+	{
+		@content;
+	}
+}
