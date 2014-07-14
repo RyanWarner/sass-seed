@@ -1,12 +1,6 @@
-@mixin selection
+@mixin flex-center-all
 {
-	::-moz-selection
-	{
-		@content;
-	}
-
-	::selection
-	{
-		@content;
-	}
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }

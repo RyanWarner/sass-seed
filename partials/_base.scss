@@ -1,1 +1,44 @@
 // Global styles.
+
+::selection
+{
+	background-color: #F9EC67;
+}
+
+::placeholder
+{
+	color: #AEA9A9;
+}
+
+body, html
+{
+
+}
+
+h1
+{
+
+}
+
+p
+{
+	
+}
+
+a
+{
+	&:hover
+	{
+
+	}
+
+	&:active
+	{
+
+	}
+
+	&:visited
+	{
+
+	}
+}
