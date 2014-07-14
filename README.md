@@ -6,7 +6,7 @@ Hand planted Sass seed.
 Usage
 -----
 
-Use these files as a starting point for styling modern web sites and applications.
+Use these files as a starting point for stylin' modern web sites and applications.
 
 Dependencies
 ------------
