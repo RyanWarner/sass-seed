@@ -6,11 +6,11 @@ Hand planted Sass seed.
 Usage
 -----
 
-Use these files as a starting point for modern web development.
+Use these files as a starting point for styling modern web sites and applications.
 
-Dependancies
+Dependencies
 ------------
 
-You should be using [Autoprefixer](https://github.com/ai/autoprefixer) to prefix your CSS automatically.
+Use [Autoprefixer](https://github.com/ai/autoprefixer) to prefix your CSS automatically.
 
 [gulp-autoprefixer](https://www.npmjs.org/package/gulp-autoprefixer)
