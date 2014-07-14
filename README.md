@@ -1,7 +1,7 @@
-sass-seed
+sass-seed ![Dandilion](http://rywar.com/dandilion.svg)
 =========
 
-Hand planted Sass seed.
+Hand planted Sass seed. Just add water.
 
 Usage
 -----
