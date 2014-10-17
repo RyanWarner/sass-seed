@@ -1,19 +1,16 @@
-sass-seed ![Dandilion](http://rywar.com/dandilion.svg)
-=========
+# sass-seed ![Dandilion](http://rywar.com/dandilion.svg)
 
 Hand planted Sass seed. Just add water.
 
 
 
-Usage
------
+## Usage
 
 Use these files as a starting point for stylin' modern web sites and applications.
 
 
 
-Suggested Plugins
------------------
+## Suggested Plugins
 
 Use [Autoprefixer](https://github.com/ai/autoprefixer) to prefix your CSS automatically.
 
@@ -21,7 +18,6 @@ Use [Autoprefixer](https://github.com/ai/autoprefixer) to prefix your CSS automa
 
 
 
-Coding Style
-------------
+## Coding Style
 
-Todo: Document and link to my coding style.
+[squint-style](https://github.com/RyanWarner/squint-style)
