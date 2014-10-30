@@ -4,6 +4,12 @@ Hand planted Sass seed. Just add water.
 
 
 
+## Everything flexes.
+
+That's right, everything has `display: flex;`. See the [`_reset.scss`](https://github.com/RyanWarner/sass-seed/blob/master/partials/_reset.scss) partial.
+
+
+
 ## Usage
 
 Use these files as a starting point for stylin' modern web sites and applications.
