@@ -1,7 +1,5 @@
-@mixin flex-center-all
+%flex-center-all
 {
-    display: flex;
-
     align-items: center;
     justify-content: center;
 }
