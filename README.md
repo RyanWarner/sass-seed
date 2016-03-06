@@ -1,4 +1,4 @@
-# sass-seed ![Dandilion](http://rywar.com/dandilion.svg)
+# sass-seed ![Dandilion](http://warner.codes/github-images/dandilion.svg)
 
 Hand planted Sass seed. Just add water.
 
