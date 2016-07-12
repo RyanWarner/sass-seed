@@ -21,9 +21,3 @@ Use these files as a starting point for stylin' modern web sites and application
 Use [Autoprefixer](https://github.com/ai/autoprefixer) to prefix your CSS automatically.
 
 [gulp-autoprefixer](https://www.npmjs.org/package/gulp-autoprefixer)
-
-
-
-## Coding Style
-
-[squint-style](https://github.com/RyanWarner/squint-style)
