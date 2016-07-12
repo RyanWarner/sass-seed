@@ -1,10 +1,7 @@
-@mixin breakpoint( $breakpoint-name )
-{
-    @if $breakpoint-name == 'iphone5-portrait'
-    {
-        @media ( max-width: 320px )
-        {
-            @content;
-        }
-    }
+@mixin breakpoint( $breakpoint-name ) {
+	@if $breakpoint-name == 'iphone5-portrait' {
+		@media(max-width: 320px) {
+			@content;
+		}
+	}
 }
